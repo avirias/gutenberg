@@ -1,12 +1,19 @@
 # gutenberg
 
 # Plugins
-flutter-svd
-http
-flutter_bloc
-url_launcher
+flutter-svd<br>
+http<br>
+flutter_bloc<br>
+url_launcher<br>
 equatable
 
+# Following
+Single Responsibility  Principle <br>
+Sepreation of concern <br>
+Repository and Service architecture <br>
+Bloc for state management <br>
+Clean architecture using doamin, data, presentation <br>
+Composition over inheritance 
 
 # Screenshots
 <img src="screenshots/book_chrome.png" height="520px">
