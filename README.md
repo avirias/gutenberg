@@ -10,6 +10,7 @@ equatable
 # Following
 Single Responsibility  Principle <br>
 Sepreation of concern <br>
+Singleton pattern <br>
 Repository and Service architecture <br>
 Bloc for state management <br>
 Clean architecture using doamin, data, presentation <br>
