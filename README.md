@@ -1,7 +1,7 @@
 # gutenberg
 
 # Plugins
-flutter-svd<br>
+flutter-svg<br>
 http<br>
 flutter_bloc<br>
 url_launcher<br>
